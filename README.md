@@ -13,6 +13,8 @@ This is a Spring Boot application for managing classrooms, artists, albums, song
 - **Most Popular Artist**: Provides a feature to find the most popular artist based on likes.
 - **Most Popular Song**: Offers a feature to find the most popular song based on likes.
 
+## Technologies Used
+
 - Java
 - Spring Boot
 - Spring MVC
