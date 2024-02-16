@@ -1,4 +1,4 @@
-# Classroom Application
+# Spotify Application
 
 This is a Spring Boot application for managing classrooms, artists, albums, songs, and playlists.
 
