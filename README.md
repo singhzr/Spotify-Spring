@@ -1,6 +1,6 @@
 # Spotify Application
 
-This is a Spring Boot application for managing classrooms, artists, albums, songs, and playlists.
+This is a Spring Boot application for managing artists, albums, songs, and playlists.
 
 ## Features 
 
