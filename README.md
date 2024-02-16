@@ -2,7 +2,7 @@
 
 This is a Spring Boot application for managing classrooms, artists, albums, songs, and playlists.
 
-## Features
+## Features 
 
 - **User Management**: Allows admins to create, update, and delete user accounts.
 - **Artist Management**: Enables admins to create, update, and delete artist profiles.
